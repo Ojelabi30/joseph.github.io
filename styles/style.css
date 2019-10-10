@@ -1,0 +1,44 @@
+
+#header {
+    text-align:left; background-color: steelblue; padding: 5px; color: white;
+      
+}
+
+h2{color: navy;font-family: cursive;}
+
+p{font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;line-height: 40px;
+color: royalblue;}
+html{ background-color:powderblue;
+}
+
+img {display: block; margin: 0 auto;}
+
+marquee {color: red;}
+
+#section { float: left; width: 50%; 
+        color: blueviolet;
+    padding: 10px;}
+
+    nav {line-height: 30px;background-color: maroon;color: white; height: 600px;
+        width: 300px;float: right;padding: 5px;position: relative;}
+
+        #footer {background-color: steelblue; color: white; clear: both; text-align: center; padding: 5px;}
+
+
+        table, th, td{border: 1px solid black; padding: 5px; border-spacing: 15px; border-collapse: collapse;
+            font-family: cursive;}
+
+        table#t01 th{background-color: burlywood;color: crimson;}
+        table#t01 tr:nth-child(odd) {background-color: darkblue;}
+        table#t01 tr:nth-child(even) {background-color: chartreuse;}
+        .box {float: left; margin-right: 30px;height: 50px;}
+
+        form{display: table; margin: auto auto;}
+             form label, form input{margin-bottom: 10px; width: 100px;}
+        form label{width: 50px; padding-right: 5%; text-align: right;}
+
+    a{background-color: chartreuse; display: inline-block;padding: 1px 2px;font-family: fantasy; font-style: italic;}
+    a:hover{background-color: red; text-underline-position: initial;font-family: fantasy;}
+       
+        
+
